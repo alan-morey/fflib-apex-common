@@ -1,3 +1,5 @@
+**IMPORTANT NOTE:** This is a WIP branch to explore adding FLS checking to the library
+
 fflib-apex-common
 =================
 
